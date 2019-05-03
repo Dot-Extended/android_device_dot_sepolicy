@@ -1,2 +1,6 @@
 # HALs
 hal_attribute(lineage_touch)
+
+# LiveDisplay
+hal_attribute(lineage_livedisplay)
+
